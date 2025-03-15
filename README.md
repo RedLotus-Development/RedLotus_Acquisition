@@ -19,4 +19,5 @@ Powershell 7 - https://learn.microsoft.com/en-us/shows/it-ops-talk/how-to-instal
 
 ## REDLOTUS
 https://discord.gg/redlotus
-https://youtu.be/cIrdJHYtw4g
+
+**YOUTUBE DEMO** https://youtu.be/cIrdJHYtw4g
