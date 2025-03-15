@@ -21,3 +21,6 @@ Powershell 7 - https://learn.microsoft.com/en-us/shows/it-ops-talk/how-to-instal
 https://discord.gg/redlotus
 
 **YOUTUBE DEMO** https://youtu.be/cIrdJHYtw4g
+
+
+# Script by Konstantine [UnMonsieur]
