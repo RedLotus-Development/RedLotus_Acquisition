@@ -9,3 +9,11 @@
 - After the acquisition is over and bstrings extracts paths, files are scanned for signature verification
 - Average time for the full process to be over is ~20 minutes
 - Users can modify the script in any way they desire. I would add the silent switch to bstrings to speed up paths extraction process.
+
+## Used Utilities
+BSTRINGS - https://ericzimmerman.github.io/#!index.md
+Timeline Explorer - https://ericzimmerman.github.io/#!index.md
+Powershell 7 - https://learn.microsoft.com/en-us/shows/it-ops-talk/how-to-install-powershell-7
+
+## REDLOTUS
+https://discord.gg/redlotus
